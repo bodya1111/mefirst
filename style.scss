@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.warp{
+    width: 1280px;
+    height: 1664px;
+    
+}
+.logo{
+    width: 134px; 
+    height: 94px;
+    background-image: url(Group\ 16.png);
+}
+
+.blocktextname{
+    width: 176px;
+    height: 0.1px;
+    background-color: black;
+
+}
+.warphed{
+    width: 1280px;
+    height: 106px;
+    display: flex;
+    background-color: aqua;
+    align-items: center;
+}
+.nametext{
+    width: 176px;
+    height: 21px;
+    color: #FFB359;
+    font-size: 21px;
+
+}
+.name{
+    width: 180px;
+    height: 22px;
+    align-items: center;
+    justify-content: center;
+}
